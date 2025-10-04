@@ -1,3 +1,4 @@
 body{
     background-color: pink;
 }
+table,td,tr{border: solid rgb(16, 16, 60);}
